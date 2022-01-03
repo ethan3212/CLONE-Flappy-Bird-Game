@@ -1,0 +1,15 @@
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\obj\Debug\Flappy Bird 2.0 (Manis, Ethan).csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\obj\Debug\MainWindow.g.cs
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\obj\Debug\App.g.cs
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\bin\Debug\Flappy Bird 2.0.exe.config
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\bin\Debug\Flappy Bird 2.0.exe
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\bin\Debug\Flappy Bird 2.0.pdb
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\obj\Debug\Flappy Bird 2.0_MarkupCompile.cache
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\obj\Debug\Flappy Bird 2.0_MarkupCompile.lref
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\obj\Debug\MainWindow.baml
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\obj\Debug\Flappy Bird 2.0.g.resources
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\obj\Debug\Flappy_Bird_2._0__Manis__Ethan_.Properties.Resources.resources
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\obj\Debug\Flappy Bird 2.0 (Manis, Ethan).csproj.GenerateResource.cache
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\obj\Debug\Flappy Bird 2.0 (Manis, Ethan).csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\obj\Debug\Flappy Bird 2.0.exe
+C:\Users\ethan\source\repos\Flappy Bird 2.0 (Manis, Ethan)\obj\Debug\Flappy Bird 2.0.pdb
