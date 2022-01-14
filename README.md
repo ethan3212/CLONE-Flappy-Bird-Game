@@ -1,7 +1,3 @@
-# CLONE-Flappy-Bird-Game
+My clone of the classic bygone game, "Flappy Bird", was written in C# and visually designed with XAML. This is a simple showcase of key-bindings, boundary-checking, and basic physics (gravity).
 
-This is a clone of the simple game, Flappy bird, which is no longer available.
-
-This program was written in C# and visually designed with XAML. This is a simple showcase of key-bindings, boundary-checking, and basic physics (gravity).
-
-Simply tap or hold the spacebar to make the bird "fly", and try to guide it through the incoming pipes.
+To make the bird "fly" and guide it through the incoming pipes, simply tap or hold the spacebar.
